@@ -104,7 +104,6 @@ This work contributes to the development of efficient and accurate medical multi
 If you use this repository or find this work helpful, please cite our paper:
 
 ```bibtex
-@article{rezaei2026optimizing,
   title   = {Optimizing multimodal models for medical visual question answering: A comparative study of LoRA and AdaLoRA on VQA-RAD and SLAKE-VQA},
   author  = {Rezaei, Zahra and Safi Samghabadi, Sara and Banad, Yaser Mike},
   journal = {Computers in Biology and Medicine},
